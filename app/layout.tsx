@@ -15,7 +15,10 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { colorScheme: 'light', themeColor: '#f4f5f0', width: 'device-width', initialScale: 1 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return (<html lang="ru" className="bg-background"><head><link rel="canonical" href="https://azino777-15casino.vercel.app/" />
+  return (<html lang="ru" className="bg-background">
+    <head>
+     <meta name="yandex-verification" content="e2423fd3635c9a8f" /> 
+    <link rel="canonical" href="https://azino777-15casino.vercel.app/" />
      
 <script
   dangerouslySetInnerHTML={{
